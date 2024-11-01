@@ -1,4 +1,5 @@
 # Book Sharing Platform
+https://book-sharing-platform-7169ea7c891d.herokuapp.com/
 
 ## Description
 The Book Sharing Platform is a comprehensive full-stack application designed to facilitate the discovery and sharing of books among users. It leverages a Node.js and Express.js backend with Sequelize ORM for database management, and Handlebars.js for dynamic page rendering. This platform stands out by incorporating user authentication, allowing users to add books to their favorites, and providing a seamless, interactive user experience.
