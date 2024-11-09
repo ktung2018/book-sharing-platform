@@ -38,7 +38,8 @@ The Book Sharing Platform is a comprehensive full-stack application designed to 
 1.  Clone the repository using `git clone https://github.com/Jetniksyla/book-sharing-platform.git`.
 2.  Navigate to the project directory in your terminal.
 3.  Run `npm install` to install dependencies from npm.
-4. Copy the `.env.EXAMPLE` file to a new file named `.env` and update it with your specific environment variables.
+4.  Run 'npm start' and `npm run seed` to set up the database.
+5. Copy the `.env.EXAMPLE` file to a new file named `.env` and update it with your specific environment variables.
 
 ## Usage
 After completing the installation steps, you're ready to start using the Book Sharing Platform. Here's how to get started:
