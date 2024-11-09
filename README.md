@@ -35,7 +35,7 @@ The Book Sharing Platform is a comprehensive full-stack application designed to 
 - **MySQL:** Required for database operations; ensure MySQL is installed and running.
 
 ### Installation
-1.  Clone the repository using `git clone https://github.com/Jetniksyla/book-sharing-platform.git`.
+1.  Clone the repository using `git clone https://github.com/ktung2018/book-sharing-platform.git`.
 2.  Navigate to the project directory in your terminal.
 3.  Run `npm install` to install dependencies from npm.
 4.  Run 'npm start' and `npm run seed` to set up the database.
